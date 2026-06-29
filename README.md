@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Kushagra Maurya</h1>
-<h3 align="center">A Full Stack Developer passionate about Cybersecurity, AI, and modern web technologies. I love turning ideas into practical software and continuously learning new technologies.</h3>
+<h3 align="center">A Full Stack Developer passionate about cybersecurity, AI, and modern web technologies. I love turning ideas into practical software and continuously learning new skills.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ku.sgr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kusgr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.kusgr@gmail.com) 
