@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kusgr&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kusgr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=kusgr&icon=0&color=0)]([https://visitcount.itsvg.in](https://camo.githubusercontent.com/ffe12a593009f687d93f847dc2ab3b77ce00de740a947e03d0423b0749fca6e3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b75736772266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174))
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kusgr) 
