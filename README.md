@@ -27,7 +27,9 @@
 <br/>
 
 <div align="center">
+  
 *"Building systems that think, defend, and create real impact."*
+
 </div>
 
 <br/>
