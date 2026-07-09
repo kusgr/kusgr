@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=KUSHAGRA%20MAURYA&fontSize=48&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&descAlignY=100" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=KUSHAGRA%20MAURYA&fontSize=48&fontColor=e9d5ff&animation=fadeIn&fontAlignY=39&descAlignY=100" width="100%"/> 
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=25&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+%7C+AI" alt="Typing SVG" />
-<picture><sub><img src="https://github.com/user-attachments/assets/009cc8e8-7b13-44e9-9b1c-1dffe2f53507" width="30px"/></sub></picture>
+<picture><sub><img src="https://github.com/user-attachments/assets/009cc8e8-7b13-44e9-9b1c-1dffe2f53507" width="60px"/></sub></picture>
 </a>
 
 <br/><br/>
