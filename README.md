@@ -1,21 +1,131 @@
-<h1 align="center">Hey there! I'm Kushagra Maurya</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=KUSHAGRA%20MAURYA&fontSize=48&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&descAlignY=100" width="100%"/> 
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=25&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+%7C+AI" alt="Typing SVG" />
+<picture><sub><img src="https://github.com/user-attachments/assets/009cc8e8-7b13-44e9-9b1c-1dffe2f53507" width="30px"/></sub></picture>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kusgr&style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/kusgr?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/kusgr?style=for-the-badge&color=C084FC&labelColor=1a1a2e&logo=github&label=STARS" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+
+## 🪐&nbsp; About Me
 <h3 align="center">A Full Stack Developer passionate about cybersecurity, AI, and modern web technologies. I love turning ideas into practical software and continuously learning new skills.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ku.sgr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kusgr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.kusgr@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kusgr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kusgr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kusgr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+*"Building systems that think, defend, and create real impact."*
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kusgr&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=kusgr&icon=0&color=0)]([https://visitcount.itsvg.in](https://camo.githubusercontent.com/ffe12a593009f687d93f847dc2ab3b77ce00de740a947e03d0423b0749fca6e3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b75736772266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174))
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kusgr) 
+<br/>
+
+## 🧱&nbsp; Tech Stack
+<div align="center">
+
+<br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" />
+
+<br/><br/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&theme=dark" />
+
+<br/><br/>
+
+**Cloud · DevOps · Deployment**
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions,git,github,linux&theme=dark" />
+
+<br/><br/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+
+## 📊&nbsp; GitHub Analytics
+
+<br/>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=kusgr&theme=github-dark-blue&hide_border=true"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kusgr&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+<br clear="both"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kusgr&theme=react-dark&hide_border=true&color=a78bfa&line=7c3aed&point=e9d5ff" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kusgr/kusgr/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+
+## 📫&nbsp; Connect With Me
+
+<br/>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/kusgr"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:dev.kusgr@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://instagram.com/ku.sgr"><img src="https://img.shields.io/badge/Instagram-C084FC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" /></a>
+<div/>
+<br/>
+
+**Thanks for visiting.**
+
+*Open to opportunities and collaborations.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4c1d95,100:0d0d17&height=120&section=footer" width="100%"/>
