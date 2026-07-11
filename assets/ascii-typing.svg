@@ -1,0 +1,221 @@
+from html import escape
+
+# ===========================
+# Configuration
+# ===========================
+
+INPUT_FILE = "portrait.txt"
+OUTPUT_FILE = "ascii-typing.svg"
+
+FONT_SIZE = 16
+LINE_HEIGHT = 22
+CHAR_WIDTH = 9.6
+
+PADDING_X = 20
+PADDING_Y = 60
+
+WINDOW_WIDTH = 1100
+WINDOW_HEIGHT = 900
+
+BACKGROUND = "#1e1e1e"
+TEXT_COLOR = "#d4d4d4"
+LINE_NUMBER = "#6a9955"
+CURSOR_COLOR = "#ffffff"
+
+FRAME_TIME = 0.015     # seconds per character
+END_PAUSE = 2          # seconds
+
+# ===========================
+# Read portrait
+# ===========================
+
+with open(INPUT_FILE, "r", encoding="utf8") as f:
+    lines = f.read().splitlines()
+
+max_len = max(len(i) for i in lines)
+
+# ===========================
+# Generate typing states
+# ===========================
+
+states = []
+
+current = []
+
+for line in lines:
+
+    typed = ""
+
+    for ch in line:
+        typed += ch
+        current_line = current + [typed]
+        states.append(current_line.copy())
+
+    current.append(line)
+
+# Pause at the end
+for _ in range(int(END_PAUSE / FRAME_TIME)):
+    states.append(current.copy())
+
+duration = len(states) * FRAME_TIME
+
+# ===========================
+# SVG Header
+# ===========================
+
+svg = []
+
+svg.append(f'''<svg xmlns="http://www.w3.org/2000/svg"
+width="{WINDOW_WIDTH}"
+height="{WINDOW_HEIGHT}"
+viewBox="0 0 {WINDOW_WIDTH} {WINDOW_HEIGHT}">
+
+<style>
+
+text {{
+font-family: Consolas, "Courier New", monospace;
+font-size:{FONT_SIZE}px;
+dominant-baseline:hanging;
+}}
+
+.frame {{
+visibility:hidden;
+}}
+
+</style>
+
+<rect width="100%" height="100%" fill="{BACKGROUND}"/>
+
+<!-- top bar -->
+
+<rect width="100%" height="38" fill="#2d2d30"/>
+
+<circle cx="18" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="19" r="6" fill="#27c93f"/>
+
+<text
+x="90"
+y="11"
+fill="#cccccc"
+font-size="14">portrait.cpp</text>
+
+''')
+
+# ===========================
+# Frames
+# ===========================
+
+for index, frame in enumerate(states):
+
+    begin = index * FRAME_TIME
+
+    svg.append(f'<g class="frame">')
+
+    svg.append(f'''
+<set
+attributeName="visibility"
+to="visible"
+begin="{begin}s"
+dur="{FRAME_TIME}s"
+/>
+''')
+
+    y = PADDING_Y
+
+    for ln, text in enumerate(frame):
+
+        svg.append(f'''
+<text
+x="20"
+y="{y}"
+fill="{LINE_NUMBER}">
+{ln+1:02}
+</text>
+''')
+
+        svg.append(f'''
+<text
+x="60"
+y="{y}"
+fill="{TEXT_COLOR}">
+{escape(text)}
+</text>
+''')
+
+        y += LINE_HEIGHT
+    # ---------------------------
+    # Draw typing cursor
+    # ---------------------------
+
+    if len(frame) > 0:
+
+        current_line = frame[-1]
+
+        cursor_x = 60 + len(current_line) * CHAR_WIDTH
+        cursor_y = PADDING_Y + (len(frame) - 1) * LINE_HEIGHT
+
+        svg.append(f'''
+<rect
+x="{cursor_x}"
+y="{cursor_y}"
+width="9"
+height="{FONT_SIZE+2}"
+fill="{CURSOR_COLOR}"/>
+''')
+
+    svg.append("</g>")
+
+# ==========================================
+# Blinking cursor after typing is finished
+# ==========================================
+
+final_x = 60 + len(lines[-1]) * CHAR_WIDTH
+final_y = PADDING_Y + (len(lines) - 1) * LINE_HEIGHT
+
+svg.append(f"""
+<rect
+x="{final_x}"
+y="{final_y}"
+width="9"
+height="{FONT_SIZE+2}"
+fill="{CURSOR_COLOR}">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"
+begin="{duration-END_PAUSE}s"/>
+
+</rect>
+""")
+
+# ==========================================
+# Auto-loop
+# ==========================================
+
+svg.append(f"""
+<animate
+id="restart"
+attributeName="visibility"
+from="visible"
+to="visible"
+begin="{duration}s"
+dur="0.001s"/>
+""")
+
+svg.append("</svg>")
+
+# ==========================================
+# Save SVG
+# ==========================================
+
+with open(OUTPUT_FILE, "w", encoding="utf8") as f:
+    f.write("".join(svg))
+
+print()
+print("=" * 40)
+print("ASCII typing animation created!")
+print("Output:", OUTPUT_FILE)
+print("=" * 40)
