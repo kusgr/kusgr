@@ -93,13 +93,16 @@
 
 <br/>
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=kusgr&theme=github-dark-blue&hide_border=true"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kusgr&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kusgr&theme=dark&bg_color=00000000&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
+
+<br/>
+
+<p align="center">
+<img width="550" src="https://streak-stats.demolab.com?user=kusgr&theme=github-dark-blue&hide_border=true"/>
+</p>
+
 <br clear="both"/>
 
 <p align="center">
