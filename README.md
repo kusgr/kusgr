@@ -91,7 +91,7 @@
 
 ## 📊&nbsp; GitHub Analytics
 
-<br/>
+<br/><br/>
 
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kusgr&theme=dark&bg_color=00000000&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
